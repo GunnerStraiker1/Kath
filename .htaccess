@@ -12,6 +12,7 @@
   # Video
   ExpiresByType video/mp4 "access plus 1 year"
   ExpiresByType video/mpeg "access plus 1 year"
+  ExpiresByType video/webm "access plus 1 year"
 
   # CSS, JavaScript
   ExpiresByType text/css "access plus 1 month"
